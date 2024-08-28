@@ -1,0 +1,17 @@
+header {
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.header__navbar__list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+}

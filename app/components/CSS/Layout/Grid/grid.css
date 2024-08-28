@@ -1,0 +1,15 @@
+.grid__container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    transition: all 500s ease;
+}
+
+.grid__container:hover {
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.gird__element {
+    border: 2px solid black;
+    padding: 1rem;
+    text-align: center;
+}
