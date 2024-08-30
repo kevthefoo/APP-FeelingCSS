@@ -6,14 +6,14 @@ export default function Grid() {
             <div>
                 <h1>Grid template</h1>
                 <div className="container grid__container grid__default">
-                    <div className="gird__element">A</div>
-                    <div className="gird__element">B</div>
-                    <div className="gird__element">C</div>
-                    <div className="gird__element">D</div>
-                    <div className="gird__element">E</div>
-                    <div className="gird__element">F</div>
-                    <div className="gird__element">G</div>
-                    <div className="gird__element">H</div>
+                    <div className="grid__element">A</div>
+                    <div className="grid__element">B</div>
+                    <div className="grid__element">C</div>
+                    <div className="grid__element">D</div>
+                    <div className="grid__element">E</div>
+                    <div className="grid__element">F</div>
+                    <div className="grid__element">G</div>
+                    <div className="grid__element">H</div>
                 </div>
             </div>
         </section>
