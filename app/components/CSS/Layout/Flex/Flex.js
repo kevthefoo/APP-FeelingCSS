@@ -9,11 +9,6 @@ export default function Flex() {
                     <div className="flex__element">A</div>
                     <div className="flex__element">B</div>
                     <div className="flex__element">C</div>
-                    <div className="flex__element">D</div>
-                    <div className="flex__element">E</div>
-                    <div className="flex__element">F</div>
-                    <div className="flex__element">G</div>
-                    <div className="flex__element">H</div>
                 </div>
             </div>
         </section>
